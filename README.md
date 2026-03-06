@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/mohanad7afiz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+systems+that+think+for+themselves;TypeScript+by+day%2C+autonomous+systems+by+night;Code+that+works+while+you+sleep" alt="Typing SVG" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Building+systems+that+think+for+themselves;TypeScript+by+day%2C+autonomous+systems+by+night;Code+that+works+while+you+sleep" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -69,9 +69,7 @@ TypeScript is my native language — frontend, backend, doesn't matter. I care a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanad-elhag)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanad7afiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanad7afiz)
 
 </div>
 
