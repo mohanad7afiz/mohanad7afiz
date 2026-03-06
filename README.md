@@ -46,7 +46,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> &nbsp;About Me
 
-TypeScript is my native language — frontend, backend, doesn't matter. I care about architecture and developer experience as much as I care about what the user sees. I'm drawn to systems that make decisions autonomously — the kind of software that works while you sleep.
+TypeScript is my native language frontend, backend, doesn't matter. I care about architecture and developer experience as much as I care about what the user sees. I'm drawn to systems that make decisions autonomously the kind of software that works while you sleep.
 
 <br/>
 
