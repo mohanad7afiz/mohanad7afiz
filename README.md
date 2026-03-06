@@ -1,9 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b3a,100:6c3fa0&height=230&section=header&text=Mohanad%20Elhag&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Engineer%20%E2%80%A2%20Salla&descSize=20&descColor=a78bfa&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b3a,100:6c3fa0&height=230&section=header&text=Mohanad%20Elhag&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Technologist%20%E2%80%A2%20Builder&descSize=20&descColor=a78bfa&descAlignY=52" />
+
+<br/>
+
+<img src="https://github.com/mohanad7afiz.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #6c3fa0;" alt="Mohanad Elhag" />
+
+<br/><br/>
 
 <a href="https://github.com/mohanad7afiz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+commerce+infrastructure+for+the+Arab+world;Crafting+micro-app+architecture+at+scale;Systems+that+work+while+you+sleep" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+systems+that+think+for+themselves;TypeScript+by+day%2C+autonomous+systems+by+night;Code+that+works+while+you+sleep" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,19 +50,17 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> &nbsp;About Me
 
-I spend my days building the merchant dashboard at **Salla** — the largest e-commerce platform in Saudi Arabia. Our micro-app architecture powers everything from payments to order management for merchants across the Arab world. React, TypeScript, and a lot of thoughtful component design.
+TypeScript is my native language — whether I'm building React dashboards, Vue/Nuxt apps, shared component libraries, or server-side tooling. I think of myself as a frontend engineer who keeps wandering into backend territory, and I care about architecture and developer experience as much as I care about what the user sees.
 
-I think of myself as a frontend engineer who keeps wandering into backend territory. TypeScript is my native language whether I'm building React dashboards, Vue/Nuxt apps, shared component libraries, or server-side tooling. I care about architecture and developer experience as much as I care about what the user sees.
-
-Outside of Salla, I build things that run on their own. An AI-powered crypto trading system that uses GPT-4o to generate signals. A content reposting engine. I'm drawn to systems that make decisions autonomously — the kind of software that works while you sleep.
+I'm drawn to systems that make decisions autonomously. An AI-powered crypto trading system that uses GPT-4o to generate signals. A content reposting engine that runs on autopilot. The kind of software that works while you sleep — that's what gets me out of bed in the morning.
 
 <br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> &nbsp;Right Now
 
-- :office: &nbsp;Building micro-app architecture for merchant commerce at [**Salla**](https://salla.com)
 - :rocket: &nbsp;Developing [**repost-engine**](https://github.com/mohanad7afiz/repost-engine) — automated content distribution
 - :chart_with_upwards_trend: &nbsp;Experimenting with AI-driven trading strategies
+- :package: &nbsp;Building shared component libraries and developer tools
 
 <br/>
 
@@ -69,9 +73,6 @@ Outside of Salla, I build things that run on their own. An AI-powered crypto tra
 </a>
 <a href="https://github.com/mohanad7afiz/repost-engine">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanad7afiz&repo=repost-engine&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3fa0&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/mohanad7afiz/sml-playground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanad7afiz&repo=sml-playground&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3fa0&text_color=c9d1d9" />
 </a>
 
 </div>
