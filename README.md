@@ -50,32 +50,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> &nbsp;About Me
 
-TypeScript is my native language — whether I'm building React dashboards, Vue/Nuxt apps, shared component libraries, or server-side tooling. I think of myself as a frontend engineer who keeps wandering into backend territory, and I care about architecture and developer experience as much as I care about what the user sees.
-
-I'm drawn to systems that make decisions autonomously. An AI-powered crypto trading system that uses GPT-4o to generate signals. A content reposting engine that runs on autopilot. The kind of software that works while you sleep — that's what gets me out of bed in the morning.
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> &nbsp;Right Now
-
-- :rocket: &nbsp;Developing [**repost-engine**](https://github.com/mohanad7afiz/repost-engine) — automated content distribution
-- :chart_with_upwards_trend: &nbsp;Experimenting with AI-driven trading strategies
-- :package: &nbsp;Building shared component libraries and developer tools
-
-<br/>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"> &nbsp;Selected Work
-
-<div align="center">
-
-<a href="https://github.com/mohanad7afiz/crypto-trader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanad7afiz&repo=crypto-trader&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3fa0&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/mohanad7afiz/repost-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohanad7afiz&repo=repost-engine&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3fa0&text_color=c9d1d9" />
-</a>
-
-</div>
+TypeScript is my native language — frontend, backend, doesn't matter. I care about architecture and developer experience as much as I care about what the user sees. I'm drawn to systems that make decisions autonomously — the kind of software that works while you sleep.
 
 <br/>
 
