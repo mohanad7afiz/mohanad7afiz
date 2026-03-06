@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://github.com/mohanad7afiz.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #6c3fa0;" alt="Mohanad Elhag" />
-
-<br/><br/>
-
 <a href="https://github.com/mohanad7afiz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+systems+that+think+for+themselves;TypeScript+by+day%2C+autonomous+systems+by+night;Code+that+works+while+you+sleep" alt="Typing SVG" />
 </a>
