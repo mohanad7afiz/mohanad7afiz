@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:141413,100:1E1E1D&height=230&section=header&text=Mohanad%20Elhag&fontSize=52&fontColor=EDEDEC&animation=fadeIn&fontAlignY=32&desc=Technologist%20%E2%80%A2%20Builder&descSize=20&descColor=E8E4DE&descAlignY=52" />
 
+</div>
+
+<div align="center">
+
 <a href="https://github.com/mohanad7afiz">
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8E4DE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Building+scalable+platforms+across+ecommerce+and+healthcare;TypeScript+architect+by+trade%2C+system+thinker+by+nature;Architecture+that+scales%2C+code+that+lasts" alt="Typing SVG" />
 </a>
