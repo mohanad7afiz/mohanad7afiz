@@ -14,23 +14,7 @@
 
 ---
 
-I'm a Software Engineer and Frontend Architect based in Riyadh, Saudi Arabia. For `9+ years`, I've been building scalable web platforms across ecommerce, healthcare, and government sectors. I care about architecture that scales, developer experience, and code that lasts.
-
-Currently at [**Salla**](https://salla.com), previously at [**LEAN**](https://lean.sa) building national health platforms.
-
-### ⚡ Currently
-
-- Leading frontend architecture for [**Salla Merchant Dashboard v4**](https://salla.com), a micro frontend ecommerce platform powering thousands of stores across MENA
-- Building [**RepostEngine**](https://repostengine.com), a SaaS tool that turns one YouTube video into optimized posts for 10+ platforms in 30 seconds
-
-### 📐 Selected Work
-
-| Project | Role | Stack |
-|---|---|---|
-| [Salla Merchant Dashboard](https://salla.com) | Frontend Architect | React, TypeScript, Micro Frontends, Design System |
-| [Sehhaty](https://www.moh.gov.sa/en/eServices/Sehhaty/Pages/default.aspx) | Senior Frontend Engineer | React, TypeScript, Accessibility |
-| [RepostEngine](https://repostengine.com) | Creator & Developer | Next.js, React, Tailwind CSS |
-| [Seha](https://www.seha.sa/en) | Senior Frontend Engineer | React, TypeScript, WCAG |
+Technologist who likes building products. `9+ years` shipping web platforms across ecommerce, healthcare, and government. I care about architecture that scales, developer experience, and code that lasts.
 
 ### 🛠 Tech
 
@@ -49,8 +33,7 @@ Currently at [**Salla**](https://salla.com), previously at [**LEAN**](https://le
 
 ### ✏️ Writing
 
-- [**Building Modern Web Applications in 2026**](https://mohanadelhag.dev/blog/building-modern-web-apps) · A practical guide to building performant, maintainable web applications with the latest tools and patterns.
-- [**Quick Take: React 19 in Production**](https://mohanadelhag.dev/blog/thoughts-on-react-19) · First impressions after running React 19 in production for a few months.
+I write about frontend architecture, building products, and lessons from shipping at scale. [**Read on the blog →**](https://mohanadelhag.dev/blog)
 
 ### 📊 Stats
 
