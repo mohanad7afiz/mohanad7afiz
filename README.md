@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-[![Website](https://img.shields.io/badge/mohanadelhag.dev-EDEDEC?style=flat-square&logo=safari&logoColor=0C0C0C)](https://mohanadelhag.dev)&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/mohanadelhag.dev-EDEDEC?style=flat-square&logo=safari&logoColor=0C0C0C)](https://mohanadelhag.me)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EDEDEC?style=flat-square&logo=linkedin&logoColor=0C0C0C)](https://linkedin.com/in/mohanad7afiz)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-EDEDEC?style=flat-square&logo=x&logoColor=0C0C0C)](https://x.com/mohanad7afiz)
 
@@ -33,7 +33,7 @@ Technologist who likes building products. `9+ years` shipping web platforms acro
 
 ### ✏️ Writing
 
-I write about frontend architecture, building products, and lessons from shipping at scale. [**Read on the blog →**](https://mohanadelhag.dev/blog)
+I write about frontend architecture, building products, and lessons from shipping at scale. [**Read on the blog →**](https://mohanadelhag.me/blog)
 
 ### 📊 Stats
 
